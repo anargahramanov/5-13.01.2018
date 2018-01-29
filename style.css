@@ -1,0 +1,34 @@
+.mainDiv{
+	height: 400px;
+	width: 800px;
+	margin: auto;
+	background-image: url(background.jpg);
+	background-size: 100% 100%;
+	padding: 30px;
+}
+
+.mainDiv h1{
+	text-align: center;
+    font-family: Dancing;
+    font-size: 70px;
+    margin: 45px 0px 0px 180px;
+
+}  
+
+.mainDiv h3{
+	text-align: center;
+    font-family: Dancing;
+    margin-bottom: 20px;
+    margin-left: 224px;
+}
+
+.mainDiv p{
+	text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin: 75px 63px 0px 310px;
+}
+
+@font-face{
+	font-family: Dancing;
+	src: url(rainbow.woff)
+}
